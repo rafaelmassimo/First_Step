@@ -3,3 +3,4 @@ I'm adding new infos to trying this function
 My name is $ (whoami)
 my home directory is /c/Users/User
 very nice, eh?
+This is the third time that I'm adding infos into this file
